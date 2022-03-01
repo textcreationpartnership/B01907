@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the inhabitants of the hamblet of Wapping, in the parish of St. Mary White-Chappel in the county of Middlesex. Humbly presented to the Parliament of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01907</idno>
+            <idno type="STC">Wing C1091</idno>
+            <idno type="STC">ESTC R171003</idno>
+            <idno type="EEBO-CITATION">52211951</idno>
+            <idno type="OCLC">ocm 52211951</idno>
+            <idno type="VID">175521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175521)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2739:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the inhabitants of the hamblet of Wapping, in the parish of St. Mary White-Chappel in the county of Middlesex. Humbly presented to the Parliament of England.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Half-title on p. [2]: The hamblet of Waping White-Chappel's case.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parishes (Local government) --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Wapping (London, England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175521:1" rendition="simple:additions"/>
+            <head>THE CASE Of the Inhabitants of the <hi>Hamblet</hi> of <hi>Wapping,</hi> in the Pariſh of St. <hi>Mary White-Chappel</hi> in the County of <hi>Middleſex.</hi>
+            </head>
+            <head type="sub">Humbly preſented to the <hi>PARLIAMENT</hi> of <hi>England.</hi>
+            </head>
+            <p>THE Pariſh of <hi>White-Chappel,</hi> being very Populous about the Year 1617, the Inhabitants of <hi>Wapping</hi> (being a <hi>Hamblet</hi> by themſelves, chuſing all their own Officers, maintaining their own Poor, and being charged for all Kings Taxes, as if they were a Pariſh) did by a Voluntary Contribution Erect a Chappel in <hi>Wapping</hi> aforeſaid, which was duly. Conſecrated; and the Inhabitants and their Succeſſors have ever ſince repaired it, and by free Collections have maintain<g ref="char:EOLhyphen"/>ed a Miniſter there, without the Allowance of one Penny to the ſaid Miniſter from the Rectors of the ſaid Pariſh.</p>
+            <p>And yet during all this time, the Inhabitants of <hi>Wapping</hi> have paid to the ſeveral Rectors of <hi>White-Chappel,</hi> the full Rate of Tythes, in reſpect of their Houſes which was formerly paid, although they have had no benefit of their Cure, and alſo have been Aſſeſt rather higher towards the repairs of the Pariſh Church than any other of the Inhabitants.</p>
+            <p>
+               <note n="*" place="margin">Buried in the whole City of <hi>London</hi> the laſt Year 2740.</note>The whole Pariſh of <hi>White-Chappel</hi> conſiſts of more then 4000 Houſes, and the Inhabitants by the loweſt computation are be<g ref="char:EOLhyphen"/>tween Thirty and Forty Thouſand Souls; ſo that the ſaid Priſh has many more Inhabitants in it then One Third part of the whole City of <hi>London,</hi> which is 97 Pariſhes.</p>
+            <p>The <hi>Hamblet</hi> of <hi>Wapping</hi> has formerly been eſteemed One Third part of the whole Pariſh,<note place="margin">In the Pa<g ref="char:EOLhyphen"/>riſh of <hi>White-Chappel</hi> 1048.</note> but now by the Building of <hi>Goodmans-Fields</hi> and other places, in which have been Erected Six or Seven Hundred Houſes within Ten Years laſt, and by a moderate computation above 150<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Houſes within about 30 Years, and this all in the upper part of the Pariſh; ſo that the <hi>Hamblet</hi> of <hi>Wapping</hi> (which cannot be increaſed by new Buildings (having no ground to Build upon) is now not one Fourth part of the whole, and yet notwithſtanding is charg'd as One Third part.</p>
+            <p>Within 24 Years laſt paſt, there have happened five dreadful fires in <hi>Wapping,</hi> which totally conſumed 500 Houſes, with Goods, Merchandizes <hi>&amp;c.</hi> to the value of One Hundred Thouſand Pounds, which decayed divers of its Inhabitants, and ruined more; and ſince this preſent War, the Inhabitants being chiefly Seamen, and depending on Sea Trade, are greatly Impoveriſhed, and be<g ref="char:EOLhyphen"/>ing burthen'd with many Widdows and Orphans, they are unable to pay Rate Tythes, to the Rectors of <hi>White-Chappel</hi> (of whoſe Cure they can have no benefit, by reaſon of the great diſtance of the Church from them; and the vaſt numbers of the Inhabitants, which are ſo great, that the Pariſh Church cannot conttain One Tenth part of them) and maintain their own Miniſter and ſupport their own <hi>Chappel</hi> as formerly: So that the Inhabitants will be conſtrained to let their <hi>Chappel</hi> fall, and ſhall thereby become deſti<g ref="char:EOLhyphen"/>tute of Divine Service, Sacraments, and other Religious Offices there for the future; which muſt neceſſarily throw them into a Defection from the Church in particular, or to all Religion in general, which God Avert.</p>
+            <p>And for prevention of it, they beg the Aſſiſtance of this preſent <hi>Parliament,</hi> praying they may be made a Pariſh diſtinct by themſelves.</p>
+            <p>Obj. 1. <hi>Perhaps it may be Objected, That if</hi> Wapping <hi>be made a Pariſh, this will become a damage to the Rectory of</hi> White-Chappel, <hi>and in particular to the preſent Rector?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If <hi>Wapping</hi> be made a Pariſh, yet <hi>White-Chappel,</hi> through the Advantage of the New Buildings (moſt of which are fair and large Houſes and Inhabited by Perſons of great Wealth) will ſtill be made better then it was 30 Years ago with <hi>Wapping,</hi> and will (it's verily believed) be worth with the Perquiſites, above 400 <hi>l. per Annum.</hi>
+            </p>
+            <p>Obj. 2. <hi>If</hi> Wapping <hi>be made a Pariſh, this will Exempt them from contributing to the Repairs of</hi> White-Chappel-Church <hi>and</hi> High-ways?</p>
+            <p>
+               <hi>Anſ.</hi> 1. <hi>White-Chappel</hi> without <hi>Wapping,</hi> will better be able, through the increaſe of their Inhabitants, to repair their Church and <hi>High-ways</hi> (of which <hi>Wapping</hi> have no benefit) then formerly they could with <hi>Wapping.</hi>
+            </p>
+            <p n="2">2. <hi>Wapping</hi> has been at above 700 <hi>l.</hi> Charge of late Years in paving their own Ways, which were formerly unpav'd,</p>
+            <p n="3">3. They have been of late Years at many Hundreds of Pounds Charge in enlarging the Out-lets of the Common-Sewers, and are ſtill at great coſt in maintaining them, which do receive and convey the greateſt part of the Water of <hi>White-Chappel</hi> into the River of <hi>Thames,</hi> notwithſtanding to which <hi>White-Chappel</hi> contributes not one Penny; all which are great Advantages, but no Charge to <hi>White-Chappel.</hi>
+            </p>
+            <p n="4">4. The <hi>Hamblet</hi> of <hi>Wapping</hi> are to have one Third part of all Publick Charities given to the Pariſh at large, one Third part of the Rent of the Pariſh Houſes, one Sixth part of all offerings, which (if they are made a diſtinct Pariſh) they ſhall utterly loſe.</p>
+            <p>All which conſidered will much more then compenſate their preſent Charge to the Church and <hi>High-ways.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:175521:2" rendition="simple:additions"/>
+            <p>
+               <hi>THE</hi> Hamblet <hi>of</hi> Waping White-Chappel<hi>'s CASE.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
